@@ -47,7 +47,7 @@ import courseDiplomaFoundations from "@/assets/course-diploma-foundations.webp";
 import courseMeditation from "@/assets/course-meditation.webp";
 import courseYogaKids from "@/assets/course-yoga-kids.webp";
 import meritCertificateImg from "@/assets/merit-certificate.webp";
-import logoImg from "@/assets/north-east-yoga-logo.webp";
+import logoImg from "@/assets/north-east-yoga-logo.png";
 import meditationGalleryOne from "@/assets/gallery-meditation-1.webp";
 import meditationGalleryTwo from "@/assets/gallery-meditation-2.webp";
 import yogaThreeMonthsOne from "@/assets/gallery-yoga-3-months-1.webp";
