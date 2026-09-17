@@ -1,7 +1,7 @@
 import { Link } from "@tanstack/react-router";
 import { ArrowUpRight, MapPin, MessageCircle, Phone } from "lucide-react";
 
-import logoImg from "@/assets/north-east-yoga-logo.webp";
+import logoImg from "@/assets/north-east-yoga-logo.png";
 import { Button } from "@/components/ui/button";
 
 const WHATSAPP_NUMBER = "918135828417";

@@ -11,7 +11,7 @@ import {
   Sparkles,
 } from "lucide-react";
 
-import logoImg from "@/assets/north-east-yoga-logo.webp";
+import logoImg from "@/assets/north-east-yoga-logo.png";
 import { Button } from "@/components/ui/button";
 import { FloatingHeader } from "@/components/floating-header";
 import { FaqSection } from "@/components/faq-section";

@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "@tanstack/react-router";
 import { ArrowUpRight, Menu, X } from "lucide-react";
-import logoImg from "@/assets/north-east-yoga-logo.webp";
+import logoImg from "@/assets/north-east-yoga-logo.png";
 
 const NAV_LINKS = [
   { to: "/", label: "Home" },
